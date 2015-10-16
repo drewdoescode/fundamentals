@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+import skilstak.colors as c
+
+
+while True:
+    
+    print(c.clear + c.rc()  + "HELLO " + c.rc() + "WORLD" + c.x)
